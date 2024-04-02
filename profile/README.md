@@ -13,9 +13,9 @@ Best music bot for Discord. Supports Spotify, Soundcloud, Deezer and more
 
   
 
-| **[Website](https://overtunes.me/)**	|
+| **[Website](https://overtunes.vannapps.com/)**	|
 |-----------------------------------------------------------------------------	|
   
-| **[Invite](https://discord.com/oauth2/authorize?client_id=873101608467185684&scope=bot&permissions=4332047432&scope=applications.commands%20bot)**	|
+| **[Invite](https://overtunes.vannapps.com/invite)**	|
 |-----------------------------------------------------------------------------	|
 </div>
